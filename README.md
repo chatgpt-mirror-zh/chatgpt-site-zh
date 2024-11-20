@@ -28,7 +28,7 @@
 - [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
 
 ## 如何快速开始使用？（详细教程）
-  选择上方的网址，如：- [https://chat.lify.vip/](https://chat.lify.vip/)。 <br />
+  选择上方的网址，如：[https://chat.lify.vip/](https://chat.lify.vip/)。 <br />
   在左上角，点击登录（也可以直接提问）<br />
   弹出二维码后，使用微信扫码就可以了~~
 
